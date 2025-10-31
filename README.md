@@ -235,7 +235,7 @@ All protected endpoints require a JWT token in the `Authorization: Bearer <token
 | `GET` | `/api/swappable-slots` | Get all `SWAPPABLE` events from *other* users | Yes |
 | `GET` | `/api/my-requests` | Get user's incoming & outgoing swap requests | Yes |
 | `POST` | `/api/swap-request` | Request a new swap | Yes |
-| `POST` | `/api/swap-response/:id` | `Accept` or `Reject` an incoming swap request | Yes |
+| `POST` | `/api/swap-response/:requestId` | `Accept` or `Reject` an incoming swap request | Yes |
 
 -----
 
