@@ -5,9 +5,9 @@ SlotSwapper is a full-stack web application that enables users to swap time slot
 -----
 ## Live Deployment Link: https://slotswapper-copy.vercel.app/login
 ### Platforms Used
-1\. Frontend: Vercel
-2\. Backend: Render
-3\. MySQL Database: Railway
+* 1\. Frontend: Vercel
+* 2\. Backend: Render
+* 3\. MySQL Database: Railway
 
 ## 🎯 Features
 
