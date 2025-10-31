@@ -3,6 +3,11 @@
 SlotSwapper is a full-stack web application that enables users to swap time slots with each other. Users can mark their busy calendar slots as "swappable" and request to exchange them with other users' available slots.
 
 -----
+## Live Deployment Link: https://slotswapper-copy.vercel.app/login
+#Platforms Used
+Frontend: Vercel
+Backend: Render
+MySQL Database: Railway
 
 ## 🎯 Features
 
