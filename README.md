@@ -3,7 +3,7 @@
 SlotSwapper is a full-stack web application that enables users to swap time slots with each other. Users can mark their busy calendar slots as "swappable" and request to exchange them with other users' available slots.
 
 -----
-## Live Deployment Link: https://slotswapper-copy.vercel.app/login
+## Live Deployment Link: https://project-slotswapper.vercel.app/login
 ### Platforms Used
 * Frontend: Vercel
 * Backend: Render
@@ -55,7 +55,7 @@ This project is fully containerized with Docker. This is the simplest and most r
 ### 2\. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/slotswapper.git
+git clone https://github.com/kshitijnangare/slotswapper.git
 cd slotswapper
 ```
 
